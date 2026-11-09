@@ -1,0 +1,14 @@
+2026-11-09 23:26:43,414 | INFO     | storage | Fichier C:\PROGRA~1\KMSpico\temp\tmp3qtjgbro\events.log inexistant : aucune tentative enregistrée
+2026-11-09 23:26:43,417 | DEBUG    | storage | Ligne enregistrée : 2026-11-09 23:26:43|LOGIN|user=alice|country=Maroc|status=SUCCESS|reason=-
+2026-11-09 23:26:43,419 | DEBUG    | storage | Ligne enregistrée : 2026-11-09 23:26:43|LOGIN|user=bob|country=France|status=FAILED|reason=WRONG_PASSWORD
+2026-11-09 23:26:43,422 | DEBUG    | storage | Ligne enregistrée : 2026-11-09 23:26:43|LOGIN|user=inconnu|country=Maroc|status=FAILED|reason=INVALID_USER
+2026-11-09 23:26:43,424 | DEBUG    | storage | Ligne enregistrée : 2026-11-09 23:26:43|LOGIN|user=charlie|country=Espagne|status=SUCCESS|reason=-
+2026-11-09 23:26:43,436 | DEBUG    | storage | Ligne enregistrée : 2026-11-09 23:26:43|LOGIN|user=a b c|country=Maroc|status=FAILED|reason=INVALID_USER
+2026-11-09 23:26:43,439 | INFO     | storage | Fichier C:\PROGRA~1\KMSpico\temp\tmpwd9jsu1q\x\y.log inexistant : aucune tentative enregistrée
+2026-11-09 23:26:43,442 | DEBUG    | storage | Ligne enregistrée : 2026-11-09 23:26:43|LOGIN|user=alice|country=Maroc|status=SUCCESS|reason=-
+2026-11-09 23:26:43,444 | DEBUG    | storage | Ligne enregistrée : 2026-11-09 23:26:43|LOGIN|user=bob|country=France|status=FAILED|reason=WRONG_PASSWORD
+2026-11-09 23:26:43,446 | DEBUG    | storage | Ligne enregistrée : 2026-11-09 23:26:43|LOGIN|user=inconnu|country=Maroc|status=FAILED|reason=INVALID_USER
+2026-11-09 23:26:43,448 | DEBUG    | storage | Ligne enregistrée : 2026-11-09 23:26:43|LOGIN|user=charlie|country=Espagne|status=SUCCESS|reason=-
+2026-11-09 23:26:43,454 | ERROR    | storage | Erreur d'écriture dans C:\PROGRA~1\KMSpico\temp\tmp8lfdrysx\fichier\events.log : [WinError 183] Impossible de créer un fichier déjà existant: 'C:\\PROGRA~1\\KMSpico\\temp\\tmp8lfdrysx\\fichier'
+2026-11-09 23:28:36,700 | DEBUG    | storage | Ligne enregistrée : 2026-11-09 23:28:36|LOGIN|user=alice|country=Maroc|status=SUCCESS|reason=-
+2026-11-09 23:29:58,975 | DEBUG    | storage | Ligne enregistrée : 2026-11-09 23:29:58|LOGIN|user=bob|country=France|status=FAILED|reason=WRONG_PASSWORD

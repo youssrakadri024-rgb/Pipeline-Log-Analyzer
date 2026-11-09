@@ -1,0 +1,8 @@
+2026-11-09 23:26:43,410 | WARNING  | authentication | Mot de passe incorrect pour : alice
+2026-11-09 23:26:43,410 | WARNING  | authentication | Utilisateur inconnu : zzz
+2026-11-09 23:26:43,418 | WARNING  | authentication | Mot de passe incorrect pour : bob
+2026-11-09 23:26:43,420 | WARNING  | authentication | Utilisateur inconnu : inconnu
+2026-11-09 23:26:43,434 | WARNING  | authentication | Utilisateur inconnu : a b c
+2026-11-09 23:26:43,443 | WARNING  | authentication | Mot de passe incorrect pour : bob
+2026-11-09 23:26:43,444 | WARNING  | authentication | Utilisateur inconnu : inconnu
+2026-11-09 23:29:58,973 | WARNING  | authentication | Mot de passe incorrect pour : bob

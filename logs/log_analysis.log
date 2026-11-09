@@ -1,0 +1,3 @@
+2026-11-09 23:26:43,429 | WARNING  | log_analysis | Ligne 3 invalide ignorée : "n'importe quoi"
+2026-11-09 23:26:43,430 | WARNING  | log_analysis | Ligne 4 invalide ignorée : '2026-11-09 12:00:00|LOGIN|user=alice|country=Maroc|status=SUCCESS|reaso'
+2026-11-09 23:26:43,432 | ERROR    | log_analysis | Fichier de log introuvable : C:\PROGRA~1\KMSpico\temp\tmp6kyrdzco\absent.log

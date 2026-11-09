@@ -1,0 +1,14 @@
+2026-11-09 23:26:43,413 | WARNING  | login_service | Saisie refusée : nom d'utilisateur vide
+2026-11-09 23:26:43,413 | WARNING  | login_service | Saisie refusée : pays invalide '123'
+2026-11-09 23:26:43,413 | WARNING  | login_service | Saisie refusée : pays invalide ''
+2026-11-09 23:26:43,418 | INFO     | login_service | Connexion réussie | user=alice | pays=Maroc
+2026-11-09 23:26:43,420 | WARNING  | login_service | Connexion échouée | user=bob | pays=France | raison=WRONG_PASSWORD
+2026-11-09 23:26:43,422 | WARNING  | login_service | Connexion échouée | user=inconnu | pays=Maroc | raison=INVALID_USER
+2026-11-09 23:26:43,425 | INFO     | login_service | Connexion réussie | user=charlie | pays=Espagne
+2026-11-09 23:26:43,436 | WARNING  | login_service | Connexion échouée | user=a b c | pays=Maroc | raison=INVALID_USER
+2026-11-09 23:26:43,442 | INFO     | login_service | Connexion réussie | user=alice | pays=Maroc
+2026-11-09 23:26:43,444 | WARNING  | login_service | Connexion échouée | user=bob | pays=France | raison=WRONG_PASSWORD
+2026-11-09 23:26:43,447 | WARNING  | login_service | Connexion échouée | user=inconnu | pays=Maroc | raison=INVALID_USER
+2026-11-09 23:26:43,448 | INFO     | login_service | Connexion réussie | user=charlie | pays=Espagne
+2026-11-09 23:28:36,701 | INFO     | login_service | Connexion réussie | user=alice | pays=Maroc
+2026-11-09 23:29:58,975 | WARNING  | login_service | Connexion échouée | user=bob | pays=France | raison=WRONG_PASSWORD
