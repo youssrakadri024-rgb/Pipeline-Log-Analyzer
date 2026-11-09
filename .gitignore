@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[oc]
+build/
+dist/
+output/
+wheels/
+*.egg-info
+
+# Fichiers générés par le programme
+data/events.log
+serving/dashboard.html
